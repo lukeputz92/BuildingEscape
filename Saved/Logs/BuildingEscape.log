@@ -1007,3 +1007,105 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.10-21.34.42:430][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
 [2019.02.10-21.34.49:014][777]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.02.10-21.35.05:101][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.10-21.37.13:210][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/putze/Documents/Unreal Projects/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.02.10-21.37.13:348][852]LogSavePackage: Moving '../../../../../../Users/putze/Documents/Unreal Projects/BuildingEscape/Saved/NewMap_Auto17AC91314420D9EAA605FE6964EAA705E.tmp' to '../../../../../../Users/putze/Documents/Unreal Projects/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto1.umap'
+[2019.02.10-21.37.13:351][852]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.187
+[2019.02.10-21.37.13:351][852]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.187
+[2019.02.10-21.38.16:735][ 49]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.02.10-21.38.47:804][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.10-21.39.03:662][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.10-21.39.07:508][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2019.02.10-21.39.08:247][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2019.02.10-21.39.13:766][689]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-21.39.20:549][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2019.02.10-21.39.21:182][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2019.02.10-21.39.22:266][440]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-21.39.33:836][441]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-21.39.37:893][794]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-21.39.37:961][794]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-21.40.39:497][886]LogSlate: Window 'Class Viewer' being destroyed
+[2019.02.10-21.40.41:415][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2019.02.10-21.40.43:503][258]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-21.40.59:686][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.10-21.41.04:571][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2019.02.10-21.41.06:021][957]Cmd: DELETE
+[2019.02.10-21.41.06:021][957]Cmd: ACTOR DELETE
+[2019.02.10-21.41.06:179][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.10-21.41.06:214][957]LogEditorActor: Deleted 1 Actors (0.138 secs)
+[2019.02.10-21.41.08:175][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2019.02.10-21.41.09:236][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-21.41.10:715][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-21.41.10:747][380]LogSlate: Took 0.011692 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.10-21.41.35:818][380]Running C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe Win64 Development -TargetType=Editor -Project="C:/Users/putze/Documents/Unreal Projects/BuildingEscape/BuildingEscape.uproject" -invalidatemakefilesonly
+[2019.02.10-21.41.38:360][380]Invalidating makefiles only in this run.
+[2019.02.10-21.41.38:595][380]Candidate modules for hot reload:
+[2019.02.10-21.41.38:595][380]  BuildingEscape
+[2019.02.10-21.41.38:595][380]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,628 Win64 Development -TargetType=Editor -Project="../../../../../../Users/putze/Documents/Unreal Projects/BuildingEscape/BuildingEscape.uproject" -canskiplink "C:/Users/putze/Documents/Unreal Projects/BuildingEscape/BuildingEscape.uproject" ]
+[2019.02.10-21.42.13:063][380]CompilerResultsLog: New page: Compilation - Feb 10, 2019, 11:42:13 AM
+[2019.02.10-21.42.13:077][380]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2019.02.10-21.42.13:077][380]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\putze\Documents\Unreal Projects\BuildingEscape).
+[2019.02.10-21.42.13:077][380]CompilerResultsLog: Creating makefile for hot reloading BuildingEscapeEditor (no existing makefile)
+[2019.02.10-21.42.13:077][380]CompilerResultsLog: Compiling game modules for hot reload
+[2019.02.10-21.42.13:077][380]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.02.10-21.42.13:077][380]CompilerResultsLog: Parsing headers for BuildingEscapeEditor
+[2019.02.10-21.42.13:077][380]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\putze\Documents\Unreal Projects\BuildingEscape\BuildingEscape.uproject" "C:\Users\putze\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.02.10-21.42.13:077][380]CompilerResultsLog: Reflection code generated for BuildingEscapeEditor in 13.9564717 seconds
+[2019.02.10-21.42.13:077][380]CompilerResultsLog: Building 8 actions with 8 processes...
+[2019.02.10-21.42.13:077][380]CompilerResultsLog:   [1/8] BuildingEscape.cpp
+[2019.02.10-21.42.13:077][380]CompilerResultsLog:   [2/8] PositionReport.cpp
+[2019.02.10-21.42.13:077][380]CompilerResultsLog:   [3/8] BuildingEscapeGameModeBase.cpp
+[2019.02.10-21.42.13:077][380]CompilerResultsLog:   [4/8] BuildingEscape.init.gen.cpp
+[2019.02.10-21.42.13:077][380]CompilerResultsLog:   [5/8] BuildingEscapeGameModeBase.gen.cpp
+[2019.02.10-21.42.13:077][380]CompilerResultsLog:   [6/8] PositionReport.gen.cpp
+[2019.02.10-21.42.13:077][380]CompilerResultsLog:   [7/8] UE4Editor-BuildingEscape-628.lib
+[2019.02.10-21.42.13:077][380]CompilerResultsLog:      Creating library C:\Users\putze\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-628.lib and object C:\Users\putze\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-628.exp
+[2019.02.10-21.42.13:077][380]CompilerResultsLog:   [8/8] UE4Editor-BuildingEscape-628.dll
+[2019.02.10-21.42.13:077][380]CompilerResultsLog:      Creating library C:\Users\putze\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-628.suppressed.lib and object C:\Users\putze\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-628.suppressed.exp
+[2019.02.10-21.42.13:077][380]CompilerResultsLog: Total build time: 34.02 seconds (Parallel executor: 2.75 seconds)
+[2019.02.10-21.42.13:090][380]LogMainFrame: MainFrame: Module compiling took 34.535 seconds
+[2019.02.10-21.42.13:167][380]LogClass: Could not find existing class PositionReport in package /Script/BuildingEscape for HotReload, assuming new class
+[2019.02.10-21.42.13:170][380]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2019.02.10-21.42.13:173][380]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.02.10-21.42.13:369][380]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 2654 classes and 624 folders.
+[2019.02.10-21.42.13:404][380]Display: HotReload took 34.9s.
+[2019.02.10-21.42.13:405][380]Warning: HotReload operation took 34.9s.
+[2019.02.10-21.42.14:275][380]LogSlate: Window 'Add C++ Component' being destroyed
+[2019.02.10-21.42.14:330][380]LogHotReload: New module detected: UE4Editor-BuildingEscape-628.dll
+[2019.02.10-21.42.14:471][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-21.42.14:542][381]LogHotReload: Starting Hot-Reload from IDE
+[2019.02.10-21.42.14:585][381]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2019.02.10-21.42.14:588][381]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.02.10-21.42.14:636][381]LogContentBrowser: Native class hierarchy populated in 0.0169 seconds. Added 2654 classes and 624 folders.
+[2019.02.10-21.42.14:644][381]Display: HotReload took  0.1s.
+[2019.02.10-21.42.50:142][487]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (35.491 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.10-21.43.42:112][164]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.02.10-21.43.42:206][166]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BuildingEscape
+[2019.02.10-21.43.42:206][166]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.02.10-21.43.42:206][166]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.02.10-21.43.42:206][166]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.02.10-21.43.42:212][166]LogTemp: BranchPath = DESKTOP-S4714UJ/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-S4714UJ/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.02.10-21.43.42:232][167]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\putze\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.02.10-21.44.21:899][849]LogSlate: Window 'Project Settings' being destroyed
+[2019.02.10-21.44.21:903][849]LogSlate: Window 'Project Settings' being destroyed
+[2019.02.10-21.45.51:340][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2019.02.10-21.45.53:133][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch2)
+[2019.02.10-21.45.55:587][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2019.02.10-21.46.02:546][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2019.02.10-21.46.14:396][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch2)
+[2019.02.10-21.46.25:792][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2019.02.10-21.47.06:249][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch2)
+[2019.02.10-21.47.10:092][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.10-21.47.13:985][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2019.02.10-21.47.15:751][ 16]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.02.10-21.47.26:962][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2019.02.10-21.47.29:811][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch2)
+[2019.02.10-21.48.17:733][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/putze/Documents/Unreal Projects/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.02.10-21.48.17:877][169]LogSavePackage: Moving '../../../../../../Users/putze/Documents/Unreal Projects/BuildingEscape/Saved/NewMap_Auto22375CCBC4604E89F4D73A389B5E6F2AC.tmp' to '../../../../../../Users/putze/Documents/Unreal Projects/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto2.umap'
+[2019.02.10-21.48.17:880][169]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.169
+[2019.02.10-21.48.17:880][169]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.169
+[2019.02.10-21.49.50:193][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-21.49.53:242][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-21.49.53:248][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/putze/Documents/Unreal Projects/BuildingEscape/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.10-21.49.53:397][977]LogSavePackage: Moving '../../../../../../Users/putze/Documents/Unreal Projects/BuildingEscape/Saved/NewMap9250E24E4926AFC0F019D1AE85D98CE8.tmp' to '../../../../../../Users/putze/Documents/Unreal Projects/BuildingEscape/Content/NewMap.umap'
+[2019.02.10-21.49.53:418][977]LogFileHelpers: Saving map 'NewMap' took 0.170
+[2019.02.10-21.49.55:206][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
