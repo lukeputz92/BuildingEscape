@@ -1,8 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "OpenDoor.h"
-#include "Gameframework/Actor.h"
-#include "CoreMinimal.h"
 #include "Engine/World.h"
 // Sets default values for this component's properties
 UOpenDoor::UOpenDoor()
@@ -21,7 +19,7 @@ void UOpenDoor::BeginPlay()
 	Super::BeginPlay();
 	GetWorld();
 	Owner = GetOwner();
-	ActorThatOpens = GetWorld()->GetFirstPlayerController()->GetPawn();
+	 ActorThatOpens = GetWorld()->GetFirstPlayerController()->GetPawn();
 	// ...
 	
 }
@@ -44,11 +42,12 @@ void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 
 	if (PressurePlate->IsOverlappingActor(ActorThatOpens)) {
 		OpenDoor();
-		lastOpen = GetWorld()->TimeSeconds();
+		lastOpen = GetWorld()->GetTimeSeconds();
 	}
 	
-	float time = GetWorld()->TimeSeconds();
-
+	if (GetWorld()->GetTimeSeconds() - lastOpen > Delay) {
+		CloseDoor();
+	}
 	// ...
 }
 
